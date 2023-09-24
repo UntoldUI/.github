@@ -1,2 +1,2 @@
 # .github
-Public profile
+The main repo for untoldui.com
